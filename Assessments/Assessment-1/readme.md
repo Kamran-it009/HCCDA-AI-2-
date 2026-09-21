@@ -1,4 +1,4 @@
-## Instructions
+## Task-1
 1. Complete all the 4 questions in this assignment.
 2. Write clean and well-commented Python code.
 3. Test your code to ensure the output matches the expected results.
@@ -59,4 +59,14 @@ Enter temperature in Celsius: 25
 ```
 Temperature in Fahrenheit: 77.0
 ```
+<br>
+<br>
 
+## Task-2
+**Create a Document File having all the details of the topics which was discussed in class.**
+```
+1. Shallow Copy Vs Deep Copy.
+2. Uses of Tuples in Software Application
+3. Python Interning in 3.14.7 version
+4. Iterables & Iterators (Theory + Code)
+```
