@@ -64,9 +64,9 @@ Temperature in Fahrenheit: 77.0
 
 ## Task-2
 **Create a Document File having all the details of the topics which was discussed in class.**
-```
+
 1. Shallow Copy Vs Deep Copy.
 2. Uses of Tuples in Software Application
 3. Python Interning in 3.14.7 version
 4. Iterables & Iterators (Theory + Code)
-```
+
